@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>RouteLab</AssemblyName>
+    <Product>Route Lab · 旅行商实验室</Product>
+    <Description>Interactive genetic algorithm and simulated annealing laboratory by Liss.</Description>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+  </PropertyGroup>
+  <ItemGroup><ProjectReference Include="../RouteLab.Core/RouteLab.Core.csproj" /></ItemGroup>
+</Project>

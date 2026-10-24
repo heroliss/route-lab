@@ -1,0 +1,70 @@
+{
+  "passed": 16,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "Genetic: square optimum",
+      "passed": true
+    },
+    {
+      "name": "Genetic: permutations, exact costs, monotone best",
+      "passed": true
+    },
+    {
+      "name": "Genetic: deterministic seed",
+      "passed": true
+    },
+    {
+      "name": "Genetic: cancellation",
+      "passed": true
+    },
+    {
+      "name": "Genetic: coincident and three cities",
+      "passed": true
+    },
+    {
+      "name": "Genetic: maximum city boundary",
+      "passed": true
+    },
+    {
+      "name": "SimulatedAnnealing: square optimum",
+      "passed": true
+    },
+    {
+      "name": "SimulatedAnnealing: permutations, exact costs, monotone best",
+      "passed": true
+    },
+    {
+      "name": "SimulatedAnnealing: deterministic seed",
+      "passed": true
+    },
+    {
+      "name": "SimulatedAnnealing: cancellation",
+      "passed": true
+    },
+    {
+      "name": "SimulatedAnnealing: coincident and three cities",
+      "passed": true
+    },
+    {
+      "name": "SimulatedAnnealing: maximum city boundary",
+      "passed": true
+    },
+    {
+      "name": "SA: rejected uphill proposals leave current unchanged",
+      "passed": true
+    },
+    {
+      "name": "Reversal delta equals complete closed-route recomputation",
+      "passed": true
+    },
+    {
+      "name": "Invalid problem/options are rejected",
+      "passed": true
+    },
+    {
+      "name": "Published snapshots cannot be changed by later solver iterations",
+      "passed": true
+    }
+  ]
+}

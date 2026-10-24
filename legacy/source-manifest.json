@@ -1,0 +1,72 @@
+{
+  "source_relative": "2016年/旅行商问题",
+  "import_date": "2026-10-24",
+  "read_only_source": true,
+  "files": [
+    {
+      "path": "旅行商问题/Form1.cs",
+      "sha256": "d185a29c9eba0f563b0297c5e16c7a4d22ec61a213d2a65ef5d3d8e546ecdccc",
+      "bytes": 14663
+    },
+    {
+      "path": "旅行商问题/Form1.Designer.cs",
+      "sha256": "c97d927e99fc593c7b1eb0762f2f0c45fb79976028f1e1b222b502ad495b0f72",
+      "bytes": 31751
+    },
+    {
+      "path": "旅行商问题/Form1.resx",
+      "sha256": "3ef1fd1f243f54e5576f859bfd353c6fe81778037eb9062824c80c89a84d5957",
+      "bytes": 6613
+    },
+    {
+      "path": "旅行商问题/GeneticAlgorithm.cs",
+      "sha256": "27bf231f58806491d4d7239a67b0104b9635c59384b3c1d7e6c72547c6eeb146",
+      "bytes": 9759
+    },
+    {
+      "path": "旅行商问题/Program.cs",
+      "sha256": "38d524d12efee88c31a9173c10e71f806fbf76cb40ea14e0ad0ea07287ea262f",
+      "bytes": 527
+    },
+    {
+      "path": "旅行商问题/Properties/AssemblyInfo.cs",
+      "sha256": "34de18c4ec52573735e1cc48ce72f3b8ad5b71d018a8ff2367cd8f53ef0fb087",
+      "bytes": 1338
+    },
+    {
+      "path": "旅行商问题/Properties/Resources.Designer.cs",
+      "sha256": "f65cd6144ad6f6660b8255ccedb10b5f7498b0e751842c1e7397da45bded6231",
+      "bytes": 2843
+    },
+    {
+      "path": "旅行商问题/Properties/Resources.resx",
+      "sha256": "66b5ebd1b0fc73f041ba669ce2184f6f471d5e3524efa34ca31233e9f5395262",
+      "bytes": 5612
+    },
+    {
+      "path": "旅行商问题/Properties/Settings.Designer.cs",
+      "sha256": "7027c8ce426fbbb41f765d911dfcd6dd6c0b2b4541e20c2d98a789f06cae502f",
+      "bytes": 1102
+    },
+    {
+      "path": "旅行商问题/Properties/Settings.settings",
+      "sha256": "f6a4290723520caddd934b8800319c7ca6cc7eeab647059ec89b7a13b1513265",
+      "bytes": 249
+    },
+    {
+      "path": "旅行商问题/SimulatedAnnealing.cs",
+      "sha256": "c87de1c36f4730a75ecef392e9cae98ddf796f89714b96ff9e1f1f926252aaae",
+      "bytes": 4523
+    },
+    {
+      "path": "旅行商问题/旅行商问题.csproj",
+      "sha256": "3faedbc984d89837245582b79df1487d9b2ec6610007155d68a8492c4bd08d40",
+      "bytes": 4024
+    },
+    {
+      "path": "旅行商问题.sln",
+      "sha256": "29317b6229328b56f7cc4efdbc63d47bf1122cebba8eecfb2b53816a69949a3b",
+      "bytes": 1012
+    }
+  ]
+}
